@@ -43,8 +43,7 @@ Before you begin, make sure you have the following prerequisites:
 
 Use the following method to retrieve the latest job information:
 
-    ```bash
-     gai.get_latest_jobs()
+    gai.get_latest_jobs()
 
 ### 2. Posting a Job
 
