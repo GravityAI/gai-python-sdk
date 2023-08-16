@@ -1,0 +1,7 @@
+README.md
+setup.py
+GravityAIInferenceSDK.egg-info/PKG-INFO
+GravityAIInferenceSDK.egg-info/SOURCES.txt
+GravityAIInferenceSDK.egg-info/dependency_links.txt
+GravityAIInferenceSDK.egg-info/requires.txt
+GravityAIInferenceSDK.egg-info/top_level.txt
