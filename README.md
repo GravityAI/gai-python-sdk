@@ -10,7 +10,7 @@ Before you begin, make sure you have the following prerequisites:
 
 ## Installation
 
-1. Clone or download the Gravity AI Inference SDK repository from [GitHub](https://github.com/gravity-ai/gravity-ai-inference-sdk).
+1. Clone or download the Gravity AI Inference SDK repository from [GitHub](https://github.com/GravityAI/gai-python-sdk).
 2. Install the required packages using pip:
 
    ```bash
@@ -130,4 +130,4 @@ Post a job with binary data from a zip file:
 ```
 ## Conclusion
 
-This guide provides an introduction to using the GravityAiInferenceSDK for interacting with the Gravity AI Inference API. For more information contact: 
+This guide provides an introduction to using the GravityAiInferenceSDK for interacting with the Gravity AI Inference API.
