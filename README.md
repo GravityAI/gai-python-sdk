@@ -1,4 +1,4 @@
-# GravityAiInferenceSDK Usage Guide
+# GravityAIInferenceSDK Usage Guide
 
 This guide offers a comprehensive view of utilizing the GravityAiInferenceSDK for engaging with the Gravity AI Inference API, encompassing a range of tasks including job submission on the Gravity AI platform, retrieval of job outcomes, modification of job names, and more.
 ## Prerequisites
